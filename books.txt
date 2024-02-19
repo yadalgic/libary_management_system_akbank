@@ -1,0 +1,5 @@
+Gurur ve Onyargı,Jane Austen,1813,423
+Genc Bir Doktorun Anıları,Mihail Bulgakov,1925,157
+Dava,Franz Kafka,1925,216
+Vanya Dayı,Anton Cehov,1898,86
+1984,George Orwell,1949,328
